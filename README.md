@@ -62,7 +62,7 @@ open your browser http://your-domain-or-ip/senec_log.php
 ## :scroll: License ## 
  MIT License
 
-Copyright (c)2023 by Pr1smBr34k3r pr1smbr34k3r@root666.net 
+Copyright (c)2023 by Pr1smBr34k3r pr1smbr34k3r@root666.net
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
